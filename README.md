@@ -1,8 +1,9 @@
 # gradebook_analyzer-
 
 📊 GradeBook Analyzer
-Author: Aarav Chauhan
-Date: 04-11-2025
+-Author: Aarav Chauhan
+-Date: 04-11-2025
+
 🧠 Project Overview
 GradeBook Analyzer is a Python-based CLI tool designed to help educators quickly analyze student performance after class tests. It automates the process of collecting marks, computing statistics, assigning grades, and summarizing results — all without needing spreadsheets.
 
